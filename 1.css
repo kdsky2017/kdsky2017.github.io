@@ -1,0 +1,203 @@
+/* 初始化标签 */
+body{
+	margin:0;
+	padding:0;
+	font-size:20px;
+	font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+}
+form,ul,li,p,h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding: 0;
+}
+img{border: 0;}
+ul,li{list-style-type: none;}
+a{color:#00007f;text-decoration: none;}
+a{text-decoration: none;}
+/* 初始化标签 */
+
+/* 响应式设计开始 */
+.ketang-col{
+	display: block;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.ketang-col-1{width:8.333%;float: left;}
+.ketang-col-2{width:16.666%;float: left;}
+.ketang-col-3{width:25%;float: left;}
+.ketang-col-4{width:33.333%;float: left;}
+.ketang-col-5{width:41.667%;float: left;}
+.ketang-col-6{width:50%;float: left;}
+.ketang-col-7{width:58.333%;float: left;}
+.ketang-col-8{width:66.666%;float: left;}
+.ketang-col-9{width:75%;float: left;}
+.ketang-col-10{width:83.333%;float: left;}
+.ketang-col-11{width:91.666%;float: left;}
+.ketang-col-12{width:100%;float: left;}
+/* 响应式设计结束 */
+
+
+
+
+/*标题栏开始*/
+.div1{
+	padding-top: 20px;
+	padding-bottom: 50px;
+}
+
+.biaoti{
+	font-size: 20px;
+	color:#f14e42;
+	display: inline;
+}
+
+.biaoti2{
+	font-size: 12px;
+	color: #999999;
+	vertical-align: top;
+}
+
+.lianjie{
+	float: right;
+	color: #999999;
+	margin-left: 40px;
+	font-size: 14px;
+	transition: all 0.2s linear 0s;
+}
+.lianjie:hover{color: #6bc5d2;}
+/*标题栏结束*/
+
+
+/*广告栏开始*/
+.div2{
+	background: #6bc5d2;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.web{
+	font-size: 400px;
+	color: white;
+	letter-spacing: -20px;
+	float: left;
+	margin-top:-232px;
+	padding-right: 40px;
+	margin-left: -120px;
+
+}
+
+.jichu{
+	font-size: 36px;
+	color: white;
+}
+
+.cheku{
+	font-size: 14px;
+	color:#177c8a;
+	margin-top: 20px;
+}
+
+.kecheng{
+	font-size: 18px;
+	color: white;
+	border:1px solid white;
+	border-radius: 5px;
+	padding:10px 40px;
+	margin-top: 30px;
+	display: inline-block;
+}
+.kecheng:hover{background:rgba(255,255,255,0.2);}
+/*广告栏结束*/
+
+
+/*向狂想者致敬开始*/
+.div4{
+	text-align: center;
+	padding-top: 130px;
+	padding-bottom: 90px;
+	border-bottom: 1px solid #e5e5e5;
+	min-height: 200px;
+}
+
+.kxz{
+	color: #f14e42;
+	margin-bottom: 50px;
+}
+
+.kxz2{
+	display: inline-block;
+	color: #6f6f70;
+	line-height: 35px;
+	text-align: left;
+	font-size: 18px;
+}
+/*向狂想者致敬结束*/
+
+
+/*愿景开始*/
+.img{
+	margin-left: -110px;
+	padding-right: 50px;
+	float: left;
+	margin-top: -10px;
+	width: 500px;
+}
+
+.yj{
+	color: #f14e42;
+	margin-bottom: 10px;
+	text-align: left;
+	margin-top:-10px;
+}
+
+.yj2{
+	color: #6f6f70;
+	line-height: 35px;
+	text-align: left;
+	font-size: 18px;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+
+
+/*愿景结束*/
+
+
+/*对课程感兴趣开始*/
+.div5{
+	padding-top: 130px;
+	padding-bottom: 130px;
+	text-align: center;
+}
+
+.xq{
+	font-size: 24px;
+	color: #6f6f70;
+}
+
+.email{
+	font-size: 18px;
+	background: #6bc5d2;
+	padding:10px 50px;
+	color: white;
+	border-radius: 5px;
+	margin-top: 30px;
+	display: inline-block;
+}
+.email:hover{background: #73d4e2;}
+/*对课程感兴趣结束*/
+
+
+/*页脚开始*/
+.div6{
+	padding:  35px 0;
+	text-align: center;
+	background: #f3f3f3;
+	border-top: 1px solid #e3e3e3;
+}
+
+.yejiao{
+	color: #bfbfbf;
+	font-size: 16px;
+}
+/*页脚结束*/

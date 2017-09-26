@@ -15,6 +15,12 @@ a{color:#00007f;text-decoration: none;}
 a{text-decoration: none;}
 /* 初始化标签 */
 
+@font-face{
+	font-family: mu;
+	src: url("./456.ttf")
+
+}
+
 /* 响应式设计开始 */
 .ketang-col{
 	display: block;
@@ -36,8 +42,30 @@ a{text-decoration: none;}
 .ketang-col-12{width:100%;float: left;}
 /* 响应式设计结束 */
 
+.ggmm{
+	position: fixed;
+	top:1%;
+	left:5px;
+}
 
 
+.ggmm1{
+	position: fixed;
+	top:1%;
+	left:1696px;
+}
+
+.ggmm2{
+	position: fixed;
+	top:77%;
+	left:5px;
+}
+
+.ggmm3{
+	position: fixed;
+	top:77%;
+	left:1696px;
+}
 
 /*标题栏开始*/
 .div1{
@@ -49,6 +77,7 @@ a{text-decoration: none;}
 	font-size: 20px;
 	color:#f14e42;
 	display: inline;
+	font-family: mu;
 }
 
 .biaoti2{

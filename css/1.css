@@ -42,40 +42,9 @@ a{text-decoration: none;}
 .ketang-col-12{width:100%;float: left;}
 /* 响应式设计结束 */
 
-.ggmm{
-	position: fixed;
-	top:1%;
-	left:5px;
-}
-
-
-.ggmm1{
-	position: fixed;
-	top:1%;
-	left:1696px;
-}
-
-.ggmm2{
-	position: fixed;
-	top:77%;
-	left:5px;
-}
-
-.ggmm3{
-	position: fixed;
-	top:77%;
-	left:1696px;
-}
-
-.ggmm4{
-	position: fixed;
-	top:38%;
-	left: 45%;
-	
-}
 
 /*标题栏开始*/
-.div1{
+header{
 	padding-top: 20px;
 	padding-bottom: 50px;
 }
@@ -105,7 +74,7 @@ a{text-decoration: none;}
 
 
 /*广告栏开始*/
-.div2{
+main{
 	background: #6bc5d2;
 	padding-top: 100px;
 	padding-bottom: 100px;
@@ -225,14 +194,11 @@ a{text-decoration: none;}
 
 
 /*页脚开始*/
-.div6{
+footer{
 	padding:  35px 0;
 	text-align: center;
 	background: #f3f3f3;
 	border-top: 1px solid #e3e3e3;
-}
-
-.yejiao{
 	color: #bfbfbf;
 	font-size: 16px;
 }

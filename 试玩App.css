@@ -55,16 +55,16 @@ body{
 .imger1{
 	background: rgba(0,100,255,0.5);
 	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 
 .imger2{
 	background: rgba(228,69,62,0.5);
 	text-align: center;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 .zhuyi{
@@ -72,8 +72,8 @@ body{
 	text-align: left;
 	color: white;
 	font-size: 18px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	padding-top: 40px;
+	padding-bottom: 40px;
 }
 
 .imger1-1{}

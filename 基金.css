@@ -1,0 +1,35 @@
+/* 初始化标签 */
+body{
+	margin:0;
+	padding:0;
+	font-size:20px;
+	font-family: "lucida grande", "lucida sans unicode", lucida, helvetica, "Hiragino Sans GB", "Microsoft YaHei", "WenQuanYi Micro Hei", sans-serif;
+}
+form,ul,li,p,h1,h2,h3,h4,h5,h6{
+	margin:0;
+	padding: 0;
+}
+img{border: 0;}
+ul,li{list-style-type: none;}
+a{color:#00007f;text-decoration: none;}
+a{text-decoration: none;}
+/* 初始化标签 */
+
+
+/* 通用属性 */
+.ty{
+	display:block;
+	max-width: 960px;
+	margin:0 auto;
+}
+/* 通用属性 */
+
+img{
+	border: 2px solid green;
+}
+
+.zj{
+	margin-top:15px ;
+	margin-bottom:15px;
+	text-align: center;
+}
